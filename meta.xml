@@ -1,0 +1,4 @@
+<meta>
+    <info author="Ardavan81" version="1.0" type="script" />
+    <script src="fixall.lua" type="server"/>
+</meta>
